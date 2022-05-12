@@ -1,3 +1,7 @@
+# Portfolio
+
+![Portfolio](https://ik.imagekit.io/9t3dbkxrtl/portfolio_Eniwk7jWv.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1652361419384)
+
 ## Languages Translates
 - [Portuguese](#portuguese)
 - [English](#english)
@@ -21,11 +25,15 @@
 
 # 📑 About the Project
 
+This project consist in are my website portfolio
+
 ---
 
 <div id="howwork-english"/>
 
 # How it's works?
+
+I'm using EJS to make the HTML, that get some values in backend(NodeJs) with Firebase. All values are recorder in Firebase-Firestore
 
 ---
 <div id="technologiesuseds-english"/>
@@ -34,6 +42,8 @@
 - TypeScript
 - NodeJs
 - Express
+- EJS
+- Firebase
 
 ---
 <div id="howexecute-english"/>
@@ -43,10 +53,10 @@ Requirements: NodeJs 14.17 LTS and Yarn
 
 ```bash
 # clone the repositore
-$ git clone https://github.com/ramonpaolo/
+$ git clone https://github.com/ramonpaolo/portfolio-public
 
 # enter inside the folder of project
-$ cd /
+$ cd portfolio-public/
 
 # install the dependencies:
 $ yarn
@@ -62,6 +72,8 @@ $ yarn start
 <div id="tips-english"/>
 
 # Tips
+
+You need get the file .json that includes the authentication to use Firebase with module firebase-admin
 
 ---
 </br>
@@ -85,11 +97,14 @@ $ yarn start
 
 # 📑 Sobre o Projeto
 
+O projeto consiste em ser meu portfolio website
 ---
 
 <div id="howwork-portuguese"/>
 
 # Como Funciona ?
+
+Eu estou usando o EJS para fazer o HTML do frontend, no lado do servidor(NodeJs), que está pegando como parâmentos, alguns valores passados pelo NodeJs, de alguns dados salvos no backend/cloud do Firebase - Firestore
 
 ---
 <div id="technologiesuseds-portuguese"/>
@@ -98,6 +113,8 @@ $ yarn start
 - TypeScript
 - NodeJs
 - Express
+- EJS
+- Firebase
 
 ---
 <div id="howexecute-portuguese"/>
@@ -107,10 +124,10 @@ Pré-requesitos: NodeJs 14.17 LTS e Yarn
 
 ```bash
 # clonar repositório
-$ git clone https://github.com/ramonpaolo/
+$ git clone https://github.com/ramonpaolo/portfolio-public
 
 # entrar na pasta do projeto
-$ cd /
+$ cd portfolio-public/
 
 # instalar as depêndencias:
 $ yarn install
@@ -127,9 +144,11 @@ $ yarn start
 
 # Dicas
 
-![GitHub top language](https://img.shields.io/github/languages/top/ramonpaolo/)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ramonpaolo/)
-![GitHub](https://img.shields.io/github/license/ramonpaolo/)
+Você precisa baixar o arquivo .json do Firebase, para fazer a autenticação no módulo firebase-admin.
+
+![GitHub top language](https://img.shields.io/github/languages/top/ramonpaolo/portfolio-public)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ramonpaolo/portfolio-public)
+![GitHub](https://img.shields.io/github/license/ramonpaolo/portfolio-public)
 
 <br/>
 
